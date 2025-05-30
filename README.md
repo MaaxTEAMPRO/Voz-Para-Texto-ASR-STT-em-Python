@@ -1,0 +1,1 @@
+# Voz-Para-Texto-ASR-STT-em-Python

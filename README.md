@@ -25,16 +25,23 @@
 -------------------------
 📂 Sua pasta/
 ├── 📄 transcritor.py (arquivo principal)
+
 ├── 📂 main/
     └── 📂 uploads/ (arquivos salvos aqui)
 
 ✨ FUNCIONALIDADES:
 ------------------
+
 🎙️ Gravar áudio direto no navegador
+
 📤 Upload de arquivos de áudio (MP3, WAV, M4A...)
+
 ✏️ Editar texto transcrito
+
 💾 Salvar como arquivo TXT
+
 📋 Copiar texto
+
 🗑️ Limpar texto
 
 🔧 INSTALAÇÃO AUTOMÁTICA:
@@ -44,6 +51,7 @@ O programa instala automaticamente:
 - SpeechRecognition (reconhecimento de voz)
 - PyAudio (gravação de áudio)
 - Pydub (conversão de áudio)
+
 
 ⚠️ PROBLEMAS COMUNS:
 -------------------
@@ -118,5 +126,7 @@ Se tiver problemas, verifique:
 - Export para Word/PDF
 
 =====================================
+
 Criado com ❤️ para facilitar sua vida!
+
 =====================================

@@ -57,8 +57,12 @@ O programa instala automaticamente:
 -------------------
 
 ❌ Erro do PyAudio:
+
+
 Windows: pip install pipwin && pipwin install pyaudio
+
 Ubuntu: sudo apt-get install portaudio19-dev python3-pyaudio  
+
 Mac: brew install portaudio && pip install pyaudio
 
 ❌ Microfone não funciona:
